@@ -1,0 +1,6 @@
+flask
+axios@0.21.1 --save
+bootstrap@4.6.0 --save
+bootstrap-vue@2.21.2 --save
+remove @vue/cli-plugin-eslint
+install -g @vue/cli
